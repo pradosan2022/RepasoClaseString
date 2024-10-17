@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def38706-1a79-4e48-b752-d16f7bfd4104" name="Changes" comment="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo2">
-      <change afterPath="$PROJECT_DIR$/src/metodosString/funcionToLowerCase.java" afterDir="false" />
-    </list>
+    <list default="true" id="def38706-1a79-4e48-b752-d16f7bfd4104" name="Changes" comment="Se crean las clases para las funciones toLowerCase y ToUpperCase" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729131987869</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Se crean las clases para las funciones toLowerCase y ToUpperCase">
+      <created>1729132468376</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729132468376</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +244,8 @@
     <MESSAGE value="Se crea la clase para las funciones compareTo y compareToIgnoreCase" />
     <MESSAGE value="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo1" />
     <MESSAGE value="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo2" />
+    <MESSAGE value="Se crean las clases para las funciones toLowerCase y ToUpperCase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crean las clases para las funciones toLowerCase y ToUpperCase" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
