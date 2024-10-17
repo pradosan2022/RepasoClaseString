@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def38706-1a79-4e48-b752-d16f7bfd4104" name="Changes" comment="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo1">
-      <change afterPath="$PROJECT_DIR$/src/metodosString/funcionCompareTo2.java" afterDir="false" />
+    <list default="true" id="def38706-1a79-4e48-b752-d16f7bfd4104" name="Changes" comment="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo2">
+      <change afterPath="$PROJECT_DIR$/src/metodosString/funcionToLowerCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.funcionCompareTo2">
-    <configuration name="funcionCharAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodosString.funcionCharAt" />
-      <module name="RepasoClaseString" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="metodosString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.funcionToLowerCase">
     <configuration name="funcionCompareTo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="metodosString.funcionCompareTo1" />
       <module name="RepasoClaseString" />
@@ -77,19 +64,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funcionEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodosString.funcionEquals" />
-      <module name="RepasoClaseString" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="metodosString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="funcionEqualsIgnoreCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="metodosString.funcionEqualsIgnoreCase" />
       <module name="RepasoClaseString" />
@@ -103,13 +77,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="funcionToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodosString.funcionToLowerCase" />
+      <module name="RepasoClaseString" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodosString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcionToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodosString.funcionToUpperCase" />
+      <module name="RepasoClaseString" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodosString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.funcionToLowerCase" />
+        <item itemvalue="Application.funcionToUpperCase" />
         <item itemvalue="Application.funcionCompareTo2" />
         <item itemvalue="Application.funcionCompareTo1" />
         <item itemvalue="Application.funcionEqualsIgnoreCase" />
-        <item itemvalue="Application.funcionEquals" />
-        <item itemvalue="Application.funcionCharAt" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729131797537</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo2">
+      <created>1729131987869</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729131987869</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +238,22 @@
     <MESSAGE value="Se crea la clase para la funcion EqualsIgnoreCase" />
     <MESSAGE value="Se crea la clase para las funciones compareTo y compareToIgnoreCase" />
     <MESSAGE value="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo1" />
+    <MESSAGE value="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/metodosString/funcionCompareTo2.java</url>
+          <line>3</line>
+          <properties class="metodosString.funcionCompareTo2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
