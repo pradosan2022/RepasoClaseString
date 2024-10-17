@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def38706-1a79-4e48-b752-d16f7bfd4104" name="Changes" comment="Se crea la clase para la funcion EqualsIgnoreCase">
-      <change afterPath="$PROJECT_DIR$/src/metodosString/funcionCompareTo.java" afterDir="false" />
+    <list default="true" id="def38706-1a79-4e48-b752-d16f7bfd4104" name="Changes" comment="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo1">
+      <change afterPath="$PROJECT_DIR$/src/metodosString/funcionCompareTo2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.funcionCompareTo">
+  <component name="RunManager" selected="Application.funcionCompareTo2">
     <configuration name="funcionCharAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="metodosString.funcionCharAt" />
       <module name="RepasoClaseString" />
@@ -51,8 +51,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funcionCompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodosString.funcionCompareTo" />
+    <configuration name="funcionCompareTo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodosString.funcionCompareTo1" />
+      <module name="RepasoClaseString" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodosString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcionCompareTo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodosString.funcionCompareTo2" />
       <module name="RepasoClaseString" />
       <extension name="coverage">
         <pattern>
@@ -90,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funcionLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodosString.funcionLength" />
-      <module name="RepasoClaseString" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="metodosString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.funcionCompareTo" />
+        <item itemvalue="Application.funcionCompareTo2" />
+        <item itemvalue="Application.funcionCompareTo1" />
         <item itemvalue="Application.funcionEqualsIgnoreCase" />
         <item itemvalue="Application.funcionEquals" />
         <item itemvalue="Application.funcionCharAt" />
-        <item itemvalue="Application.funcionLength" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +185,28 @@
       <option name="project" value="LOCAL" />
       <updated>1729131068562</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Se crea la clase para las funciones compareTo y compareToIgnoreCase">
+      <created>1729131514868</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729131514868</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo1">
+      <created>1729131739004</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729131739004</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo1">
+      <created>1729131797537</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729131797537</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +229,8 @@
     <MESSAGE value="Se crea la clase para la funcion CharAt" />
     <MESSAGE value="Se crea la clase para la funcion Equals" />
     <MESSAGE value="Se crea la clase para la funcion EqualsIgnoreCase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se crea la clase para la funcion EqualsIgnoreCase" />
+    <MESSAGE value="Se crea la clase para las funciones compareTo y compareToIgnoreCase" />
+    <MESSAGE value="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea la clase para las funciones compareTo y compareToIgnoreCase Ejemplo1" />
   </component>
 </project>
